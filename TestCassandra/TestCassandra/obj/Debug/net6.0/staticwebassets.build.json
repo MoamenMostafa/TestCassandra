@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "R/DVwR24cAsZibMumO2oxPCl/ZW9JFY6r9GZkgoml/Q=",
+  "Source": "TestCassandra",
+  "BasePath": "_content/TestCassandra",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
